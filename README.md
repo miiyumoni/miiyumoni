@@ -26,5 +26,3 @@
   - 2020 - 2022 Robotics Club 
   - 2021 - 2022 CyberPatriot Club
   - 2021 - 2022 PAW Club  
-
-- https://miiyumii.carrd.co/
