@@ -23,6 +23,6 @@
   - 2009, 2016, 2019 - 2021 Piano Lessons
   - 2020 - 2022 National Honors Society
   - 2020 - 2022 Coding Club
-  - 2020 - 2022 Robotics Club 
+  - 2020 - 2022 7157 μbotics Robotics 
   - 2021 - 2022 CyberPatriot Club
   - 2021 - 2022 PAW Club  
