@@ -50,7 +50,12 @@
   - 2020 - 2022 Coding Club
     - 2020 - 2022 Secretary 
   - 2020 - 2022 7157 μbotics Robotics 
+  - https://www.thebluealliance.com/team/7157
+  - https://www.instagram.com/mubotics/
     - 2020 - 2022 Business team
     - 2020 - Art Team; designed team t-shirts
+      - 2022 Orange County Regional
+      - 2022 Sacramento Regional
+      - 2022 Los Angeles Regional
   - 2021 - 2022 Cyber Patriot Club
   - 2021 - 2022 PAW Club  
