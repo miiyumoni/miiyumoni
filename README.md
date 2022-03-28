@@ -50,9 +50,10 @@
     - 2020 - 2021 President
   - 2020 - 2022 Coding Club
     - 2020 - 2022 Secretary 
-  - 2020 - 2022 7157 μbotics Robotics 
+  - 2020 - 2022 7157 μbotics
+  - https://www.instagram.com/mubotics/ 
   - https://www.thebluealliance.com/team/7157
-  - https://www.instagram.com/mubotics/
+  - https://www.youtube.com/channel/UCXJEFeYK3kB0khbI9_N-GKg/featured
     - 2020 - 2022 Business team
     - 2020 - Art Team; designed team t-shirts
       - 2022 Orange County Regional
