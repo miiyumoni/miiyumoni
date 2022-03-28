@@ -1,4 +1,5 @@
 - hai, i’m @miiyumoni
+- https://miiyumii.carrd.co/
 
 - academics:
   - Brea Olinda High School
