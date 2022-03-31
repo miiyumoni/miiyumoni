@@ -23,6 +23,8 @@
   - 2014 Underwater Robotics Summer Camp 
     - 2014 Build Team
   - 2014 - 2019 GenCyber Summer Camp 
+  - https://www.gen-cyber.com/
+  - https://www.csusb.edu/cybersecurity/cybersecurity-center/programs/gencyber
   - 2014 - 2015 Technology Club 
     - 2014 - 2015 President
   - 2016 Tennis Summer Camp 
@@ -31,7 +33,7 @@
   - 2016 - 2017 Private Piano Lessons
   - 2016 - 2017 Track & Field Manager
   - 2016 - 2017 Maple Valley Youth Symphony Orchestra 
-  - 2017 - 2018 Boeing Club
+  - https://www.maplevalleywa.gov/
   - 2018 Robotics Summer Camp
     - 2018 Programmer
   - 2017 - 2018 Associated Student Body Senator
@@ -40,9 +42,11 @@
     - 2020 - 2021 Historian
     - 2021 - 2022 Programs Operations Team
   - 2018 - 2022 Science Olympiad
+  - https://www.soinc.org/
     - 2019 - 2022 Co-President
   - 2019 - 2021 Muzikfun Education
   - 2020 - 2021 Technovation Girls; Programming App Competition
+  - https://technovationchallenge.org/
     - 2021 Business Lead; created business plan
     - 2021 Art Team; designed app logo
   - 2020 - 2022 National Honors Society
@@ -56,8 +60,10 @@
   - https://www.youtube.com/channel/UCXJEFeYK3kB0khbI9_N-GKg/featured
     - 2020 - 2022 Business team
     - 2020 - Art Team; designed team t-shirts
+    - 2022 - Scouting; 
       - 2022 Orange County Regional
       - 2022 Sacramento Regional
       - 2022 Los Angeles Regional
   - 2021 - 2022 Cyber Patriot Club
+  - uscyberpatriot.org
   - 2021 - 2022 PAW Club  
