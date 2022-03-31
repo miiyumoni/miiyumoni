@@ -65,5 +65,5 @@
       - 2022 Sacramento Regional
       - 2022 Los Angeles Regional
   - 2021 - 2022 Cyber Patriot Club
-  - uscyberpatriot.org
+  - https://www.uscyberpatriot.org/ 
   - 2021 - 2022 PAW Club  
