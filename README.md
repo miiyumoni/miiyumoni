@@ -40,6 +40,7 @@
   - 2018 Robotics Summer Camp
     - 2018 Programmer
   - 2017 - 2018 Associated Student Body Senator
+  - 2018 - 2022 Chinese Club
   - 2018 - 2022 Lady IT; teach elementary students how to code using the Scratch computer programming application 
     - 2018 - 2019 Events Committee
     - 2020 - 2021 Historian
