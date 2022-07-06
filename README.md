@@ -7,8 +7,11 @@
     - Music Appreciation
     - Introduction to Sociology
     - Introduction to Cyber Security
+    - American Government
   - Orange Coast College
     - Fundamentals of Public Speaking
+  - Cypress College
+    - Philosophy
 
 - computer programming credentials:
   - 2014 - 2019 California State University of San Bernardino GenCyber Summer Camp; Cyber Security, Linux, Command Line Programming, and Python
