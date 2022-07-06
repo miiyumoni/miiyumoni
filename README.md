@@ -37,6 +37,7 @@
   - 2016 - 2017 Track & Field Manager
   - 2016 - 2017 Maple Valley Youth Symphony Orchestra 
   - https://www.maplevalleywa.gov/
+  - 2017 - 2018 Boeing Club
   - 2018 Robotics Summer Camp
     - 2018 Programmer
   - 2017 - 2018 Associated Student Body Senator
@@ -62,12 +63,13 @@
   - https://www.instagram.com/mubotics/ 
   - https://www.thebluealliance.com/team/7157
   - https://www.youtube.com/channel/UCXJEFeYK3kB0khbI9_N-GKg/featured
-    - 2020 - 2022 Business team
-    - 2020 - Art Team; designed team t-shirts
-    - 2022 - Scouting; 
+    - 2020 - 2022 Business Team
+    - 2020 - 2022 Art Team; designed team t-shirts
+    - 2022 Scouting; finding teams to be in an alliance with
       - 2022 Orange County Regional
       - 2022 Sacramento Regional
       - 2022 Los Angeles Regional
+      - 2022 Houston World Championship
   - 2021 - 2022 Cyber Patriot Club
   - https://www.uscyberpatriot.org/ 
-  - 2021 - 2022 PAW Club  
+  - 2021 - 2022 PAW Club; take care of animals in shelters   
