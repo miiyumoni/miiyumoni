@@ -73,3 +73,19 @@
   - 2021 - 2022 Cyber Patriot Club
   - https://www.uscyberpatriot.org/ 
   - 2021 - 2022 PAW Club; take care of animals in shelters   
+
+- awards:
+  - 2011 Colton Joint Unified District Pen Pencil & Brush 2nd Place
+  - 2013 Colton Joint Unified District Pen Pencil & Brush 3rd Place
+  - 2015 Colton Joint Unified District Pen Pencil & Brush 1st Place
+  - 2022 Highest Honors Brea Olinda High School World Languages
+  - 2022 Orange County Affiliate Honorable Mention in National Center for Women & Information Technology
+  - 2022 FIRST Robotics Competition Rapid React Orange County Regional Finalist 
+  - 2022 FIRST Robotics Competition Rapid React Sacramento Regional Finalist 
+  - 2022 FIRST Robotics Competition Rapid React Sacramento Imagery Award
+  - 2022 FIRST Robotics Competition Rapid React Los Angeles Regional Finalist 
+  - 2022 FIRST Robotics Competition Rapid React Worlds Championship Newton Division Rank 7
+  - 2022 Brea Olinda Unified School District Board of Education & Administration Recognition of Performance of the Brea Olinda High School 
+    Mubotics 7157 Robotics Team, and Achievement at the 2022 FIRST Robotics World Championship Certificate
+  - 2022 National Honors Society Certificate of Membership
+
